@@ -6,8 +6,8 @@
 #if you copy some code here please permission to the owner
 #
 
-propversion=v7.7
-propdate=02-04-2022
+propversion=v7.8
+propdate=15-08-2022
 
 # Colors
 GREEN='\e[01;32m'

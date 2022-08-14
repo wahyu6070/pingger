@@ -1,8 +1,8 @@
 id=pingger
 name=Pingger
-version=v7.7
-versionCode=77
-date=02-04-2022
+version=v7.8
+versionCode=78
+date=15-08-2022
 author=wahyu6070
 description=Pingger Stable is used to fix unstable pings when playing games and there are additional features, you install one module with multi functions
 updateJson=https://raw.githubusercontent.com/wahyu6070/pingger/main/update.json

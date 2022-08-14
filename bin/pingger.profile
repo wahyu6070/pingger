@@ -1,9 +1,9 @@
-Pingger Stable For Game profile V7.5
+Pingger Stable For Game profile V7.8
 
 ______________________
 
-pingger.version=7.7
-pingger.code=77
+pingger.version=7.8
+pingger.code=78
 username=Gaming
 ______________________
 -------------------------------------
@@ -84,11 +84,11 @@ SmoothStreaming=ON
 2. OpenGL ES 3.1
 3. OpenGL ES 3.2
 
-OpenGLES=3
+OpenGLES=0
 
 - GPU Rendering
 1. OpenGL ES
 2. OpenGL Skia
 3. Vulkan Skia
 
-GPUrendering=3
+GPUrendering=0
