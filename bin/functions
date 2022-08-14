@@ -71,17 +71,10 @@ printlog "| Name            : $MODULENAME"
 printlog "| Version         : $MODULEVERSION"
 printlog "| Build date      : $MODULEDATE"
 printlog "| By              : $MODULEAUTHOR"
-case $TYPEINSTALL in
-magisk | magisk_module)
 printlog "| Mode            : systemless"
-;;
-*)
-printlog "| Mode            : non systemless"
-;;
-esac
 printlog "|___________________________________"
 printlog "|"
-printlog "| Telegram        : https://t.me/litegapps"
+printlog "| Telegram        : https://t.me/wahyu6070group"
 printlog "|___________________________________"
 printlog "|              Device Info"
 printlog "| Name Rom        : $(GET_PROP ro.build.display.id)"
